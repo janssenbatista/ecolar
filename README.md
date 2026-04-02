@@ -1,29 +1,29 @@
-# <img width="32" height="32" alt="leaf-icon" src="https://github.com/user-attachments/assets/b02a21d6-e83e-44f2-a795-8836bb09226c" />  EcoLar
-### Vencedor da 2ª edição Hackathon Comunidade LAB 365 
+# <img width="32" height="32" alt="leaf-icon" src="https://github.com/user-attachments/assets/b02a21d6-e83e-44f2-a795-8836bb09226c" /> EcoLar
+
+### Vencedor da 2ª edição Hackathon Comunidade LAB 365
+
 [eco-lar-demo.vercel.app/](https://eco-lar-demo.vercel.app/)
 
 ![hackathon_fita_1](https://github.com/user-attachments/assets/55f2cd6c-daa0-4d99-82a3-bbceb2d999fe)
 
-
 Aplicação web criada para ajudar famílias a acompanharem e reduzirem seu impacto ambiental, oferecendo um painel completo com consumo de recursos, metas sustentáveis, dicas personalizadas e um quiz educativo.
 
-
-
 ## Tecnologias
-| Badge | Nome | Finalidade  |
-|------------------------------------------|-------------|-------------|
-| ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white) | **React 18**   | Criação da interface do usuário  |  |
-| ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white) | **Vite 5**  | Ferramenta de build e desenvolvimento  |  |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2DD4BF?logo=tailwindcss&logoColor=white) | **Tailwind CSS**  | Estilização rápida e responsiva  |  |
-| ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?logo=react-router&logoColor=white) | **React Router DOM** | Navegação entre páginas  |  |
-| ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=react-query&logoColor=white) | **TanStack Query**  | Gerenciamento de estado e cache  |  |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white) | **Framer Motion**  | Animações fluidas e interativas  |  |
-| ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?logo=lucide&logoColor=white) | **Lucide Icons**  | Ícones personalizáveis e animados  |  |
-| ![Recharts](https://img.shields.io/badge/Recharts-FF7300?logo=recharts&logoColor=white) | **Recharts**  | Gráficos e visualizações de dados  |  |
+
+| Badge                                                                                                   | Nome                 | Finalidade                            |
+| ------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------- | --- |
+| ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)                       | **React 18**         | Criação da interface do usuário       |     |
+| ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)                           | **Vite 5**           | Ferramenta de build e desenvolvimento |     |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2DD4BF?logo=tailwindcss&logoColor=white)      | **Tailwind CSS**     | Estilização rápida e responsiva       |     |
+| ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?logo=react-router&logoColor=white) | **React Router DOM** | Navegação entre páginas               |     |
+| ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=react-query&logoColor=white)  | **TanStack Query**   | Gerenciamento de estado e cache       |     |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white)         | **Framer Motion**    | Animações fluidas e interativas       |     |
+| ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?logo=lucide&logoColor=white)           | **Lucide Icons**     | Ícones personalizáveis e animados     |     |
+| ![Recharts](https://img.shields.io/badge/Recharts-FF7300?logo=recharts&logoColor=white)                 | **Recharts**         | Gráficos e visualizações de dados     |     |
 
 ## Pré-requisitos
 
-- Node.js 18 ou superior
+- Node.js 20 ou superior
 - npm (instalado automaticamente com o Node.js)
 
 ## Configuração do Supabase (passo a passo)
@@ -328,7 +328,6 @@ USING (auth.uid() = user_id);
 - [Linconl Augusto](https://github.com/LinconlBR) - Gerente do projeto & UI/UX Designer
 - [Júnior Medeiros](https://github.com/Medeiros000) - Full Cycle
 - [Janssen Batista ](https://github.com/janssenbatista) - Full Cycle
-
 
 Sinta-se à vontade para entrar em contato via GitHub para dúvidas, sugestões ou colaborações!
 
