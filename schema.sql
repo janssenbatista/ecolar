@@ -44,7 +44,7 @@ create table public.tb_consumption_records (
 
 -- POLICIES
 
-ALTER TABLE "public"."tb_tips" ENABLE ROW LEVEL SECURITY
+ALTER TABLE "public"."tb_tips" ENABLE ROW LEVEL SECURITY;
 
 create policy "Enable users to view their own data only"
   on "public"."tb_tips"
@@ -63,7 +63,7 @@ create policy "users can update you own data"
     (auth.uid() = user_id)
 );
 
-ALTER TABLE "public"."tb_consumption_records" ENABLE ROW LEVEL SECURITY
+ALTER TABLE "public"."tb_consumption_records" ENABLE ROW LEVEL SECURITY;
 
 create policy "Enable users to view their own data only"
   on "public"."tb_consumption_records"
@@ -85,7 +85,7 @@ create policy "Enable delete for users based on user_id"
     (select auth.uid()) = user_id
 );
 
-ALTER TABLE "public"."tb_user_infos" ENABLE ROW LEVEL SECURITY
+ALTER TABLE "public"."tb_user_infos" ENABLE ROW LEVEL SECURITY;
 
 create policy "Enable users to view their own data only"
   on "public"."tb_user_infos"
